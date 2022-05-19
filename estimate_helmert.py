@@ -3,8 +3,8 @@
 ##################
 
 __author__ = "Mike Halbheer"
-__version__ = "alpha.0.7"
-__status__ = "Development"
+__version__ = "1.0.0"
+__status__ = "Stable"
 
 
 ###################
